@@ -60,19 +60,3 @@ print("Total days to go from level 0 to level 60 by only doing daily misions and
 #print("Total days (2000 exp a day) from 0 to 60: %d"%totaldays)
 
 #print("")
-
-'''
-26400
-28800
-31200
-33600
-36000
-
-diff 196000
-
-232350
-428350
-624350
-820350
-1016350
-'''
