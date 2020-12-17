@@ -59,7 +59,7 @@ print("Total days to go from level 0 to level 60 by only doing daily misions and
 #days in base an exponential 1525 exp plus for every level and a 2000 exp gain everyday.
 #print("Total days (2000 exp a day) from 0 to 60: %d"%totaldays)
 
-print("")
+#print("")
 
 '''
 26400
