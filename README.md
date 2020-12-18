@@ -1,7 +1,7 @@
 # EXP and aproximate time Calculator on Adventure Rank.
 
 ## Requirements
-- Python3.x or more.
+- Python3.x or more: https://www.python.org/downloads/
 
 ## How it works
 Based on the experience you get from each level (got the info: https://genshin-impact.fandom.com/wiki/Adventure_Rank) i get an aproximate
